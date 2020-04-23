@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-23T16:22:34.185613+10:00"
+    description: nginx from helms
+    digest: 4267ea96a545798e4cfb6d7bf26ec8a3d6876e2a59a95667585d4b63a84525f9
+    name: nginx-test
+    type: application
+    urls:
+    - nginx-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-23T16:22:34.184614+10:00"
